@@ -1,0 +1,12 @@
+#mydiv{
+	width:100px;
+	height: 100px;
+	background-color: aqua;
+	margin: 20px;
+}
+
+#mycanvas{
+				
+	background-image: url("bg.jpg");
+	border:20px solid green;
+}
